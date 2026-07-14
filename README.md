@@ -1,6 +1,6 @@
 # 🛍️ Intelligent Customer Segmentation Engine
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customer-segmentation-vinay-app.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customer-segmentation-vinay-app.streamlit.app/)  
 *(👆 Click the badge above to view the live dashboard!)*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
