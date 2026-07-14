@@ -46,7 +46,7 @@ If you want to run this engine on your own machine, follow these steps:
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/customer-segmentation.git
+git clone https://github.com/vinay98485/customer-segmentation.git
 cd customer-segmentation
 ```
 
