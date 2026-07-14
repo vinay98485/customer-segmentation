@@ -20,13 +20,11 @@ Instead of arbitrary grouping, this project utilizes the **K-Means Clustering al
 ### 1. Mathematical Proof (The Elbow Curve)
 To avoid guessing the number of customer groups, the engine calculates the Within-Cluster Sum of Squares (WCSS) for 1 to 10 clusters. The optimal number of clusters is found at the "elbow" of the curve, which proves that **K=5** is the most mathematically sound choice.
 
-*(Add your `newplot.png` image to your repository and uncomment the line below)*
 ![Elbow Curve](newplot.png)
 
 ### 2. The AI-Generated Output Graph
 The engine automatically maps the AI's predictions onto a 2D scatter plot, comparing Annual Income against Spending Score, with dot size representing the customer's Age. 
 
-*(Take a screenshot of your 2D Streamlit graph, save it as `cluster_map.png` in your repo, and uncomment the line below)*
 ![2D Cluster Map](cluster_map.png)
 
 ---
